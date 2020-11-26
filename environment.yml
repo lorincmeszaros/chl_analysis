@@ -1,0 +1,6 @@
+name: odys_virtual_school_2020
+channels:
+  - defaults
+dependencies:
+  - numpy
+
