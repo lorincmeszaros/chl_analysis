@@ -7,4 +7,3 @@ dependencies:
   - cftime
   - cartopy
   - matplotlib
-  - os
