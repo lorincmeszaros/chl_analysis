@@ -2,5 +2,5 @@ name: odys_virtual_school_2020
 channels:
   - defaults
 dependencies:
-  - numpy
+  - numpy=1.19.2=py37hadc3359_0
 
