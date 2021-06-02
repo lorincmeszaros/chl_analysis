@@ -3,7 +3,7 @@ channels:
   - defaults
 dependencies:
   - numpy
-  - netCDF4
+  - netCDF4=1.5.3
   - cftime
   - cartopy
   - matplotlib
